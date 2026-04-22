@@ -210,7 +210,7 @@ ul {
 }
 /* Add this just below .logo */
 .logo-img {
-    height: 40px;   /* change size if needed */
+    height: 55px;   /* change size if needed */
     width: auto;
     display: block;
 }
@@ -750,6 +750,12 @@ ul {
     gap: 10px;
     margin-bottom: 20px;
 }
+.footer-logo-img {
+    height: 55px;   /* change this value to make bottom logo bigger/smaller */
+    width: auto;
+    display: block;
+}
+
 
 .footer-about p {
     color: #CCC;
