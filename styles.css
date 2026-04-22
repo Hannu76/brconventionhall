@@ -208,7 +208,12 @@ ul {
     align-items: center;
     gap: 10px;
 }
-
+/* Add this just below .logo */
+.logo-img {
+    height: 40px;   /* change size if needed */
+    width: auto;
+    display: block;
+}
 .nav-links {
     display: flex;
     gap: 30px;
